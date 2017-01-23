@@ -1,2 +1,2 @@
-# python_notebooks
-ipython and jupyter notebooks, various topics
+# Python Notebooks
+These are lightly curated ipython and jupyter notebooks, exploring various topics.
